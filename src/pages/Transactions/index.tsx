@@ -7,7 +7,7 @@ import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styl
 
 export function Transactions() {
   const { transactions } = useContext(TransactionsContext)
-  
+
   return (
     <div>
       <Header />
@@ -28,7 +28,7 @@ export function Transactions() {
                     </PriceHighlight>
                   </td>
                   <td>{transaction.category}</td>
-                  <td>{transaction.careatedAt}</td>
+                  <td>{transaction.createdAt}</td>
                 </tr>
               )
             })}
