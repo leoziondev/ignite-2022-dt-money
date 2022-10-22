@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "description": "Desenvolvimento de site",
+      "description": "Pizza",
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-10-22T09:31:27.707Z"
+    },
+    {
+      "description": "Cigarros",
+      "price": 57,
+      "category": "Padaria",
+      "type": "outcome",
+      "createdAt": "2022-10-22T22:45:21.772Z",
+      "id": 4
+    },
+    {
+      "description": "UI Design APP",
+      "price": 9500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-22T22:48:31.365Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel + Guaraná",
+      "price": 1250,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-22T23:10:19.175Z",
+      "id": 6
     }
   ]
 }
